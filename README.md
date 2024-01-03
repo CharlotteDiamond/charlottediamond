@@ -3,7 +3,7 @@
 ### You can follow me on linktree: https://linktr.ee/CharlotteHedi
 - 🎓 I am applying for a PhD degree and working on my postgraduate study
 - 🔖 I am also a language lover, I am studying French now so Boujour~
-- 💻 Crazy about ML,DL,NLP and everything.
+- 💻 Crazy about ML&DL&NLP and everything.
 
 
 <!--
