@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there 👋 This is Charlotte
 
-You can follow me on linktree: https://linktr.ee/CharlotteHedi
+### You can follow me on linktree: https://linktr.ee/CharlotteHedi
+- 🎓 I am applying for a PhD degree and working on my postgraduate study
+- 🔖 I am also a language lover, I am studying French now so Boujour~
+- 💻 Crazy about ML,DL,NLP and everything.
+
 
 <!--
 **CharlotteDiamond/charlottediamond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
