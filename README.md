@@ -5,7 +5,7 @@
 - 🔖 I am also a language lover, I am studying French now so Boujour~
 - 💻 Crazy about ML&DL&NLP and everything.
 
-
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlottediamond)
 <!--
 **CharlotteDiamond/charlottediamond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
