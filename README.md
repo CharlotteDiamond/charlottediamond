@@ -7,7 +7,7 @@
 
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlottediamond&theme=ambient_gradient&show_icons=true)
 
-- I am spending time on...
+- For this week, I am spending time on...
 <!--START_SECTION:waka-->
 ```text
 C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
