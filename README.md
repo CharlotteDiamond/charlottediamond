@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Charlotte，a person who believes she can succeed in anything!
 
-### You could follow me on linktree: https://linktr.ee/CharlotteHedi
+### You could also follow me on linktree: https://linktr.ee/CharlotteHedi
 
 I am
 - 🎓 Applying for PhD opportunies right now and I am trying to seek a job as a Java Backend Engineer.
