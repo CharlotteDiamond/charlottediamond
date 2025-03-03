@@ -4,7 +4,7 @@
 
 I am
 - 🎓 Applying for PhD opportunies right now and I am trying to seek a job as a Java Backend Engineer.
-- 🔖 who is also a language lover. Boujour~ 
+- 🔖 who is also a language lover, Boujour~ 
 - 💻 My career path would be: Backend Engineer->Algorithm Engineer.
 - 🏹 Always wish to study more! Never think 'that's enought'! Crazy about ML&DL&NLP and everything.
 - 💎 Programming my way.
