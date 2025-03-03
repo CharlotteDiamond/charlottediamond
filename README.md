@@ -1,9 +1,10 @@
 ### Hi there 👋 This is Charlotte
 
 ### You can follow me on linktree: https://linktr.ee/CharlotteHedi
-- 🎓 I am applying for a PhD degree and working on my postgraduate study
+- 🎓 I am applying for PhD opportunies right now and I am trying to seek a job as a Java Backend Engineer.
 - 🔖 I am also a language lover, I am studying French now so Boujour~
-- 💻 Crazy about ML&DL&NLP and everything.
+- 💻 My career path would be: Backend Engineer->Algorithm Engineer.
+- 🏹 Always wish to study more! Crazy about ML&DL&NLP and everything.
 
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlottediamond&theme=ambient_gradient&show_icons=true)
 
