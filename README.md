@@ -1,4 +1,4 @@
-### Hi there 👋 This is Charlotte，a person who believes that she can succeed in anything!
+### Hi there 👋 This is Charlotte，a person who believes she can succeed in anything!
 
 ### You could follow me on linktree: https://linktr.ee/CharlotteHedi
 
