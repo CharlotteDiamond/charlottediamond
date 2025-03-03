@@ -1,10 +1,12 @@
-### Hi there 👋 This is Charlotte
+### Hi there 👋 This is Charlotte，a person who believes that she can succeed in anything!
 
 ### You can follow me on linktree: https://linktr.ee/CharlotteHedi
-- 🎓 I am applying for PhD opportunies right now and I am trying to seek a job as a Java Backend Engineer.
-- 🔖 I am also a language lover, I am studying French now so Boujour~
+I am
+- 🎓 Applying for PhD opportunies right now and I am trying to seek a job as a Java Backend Engineer.
+- 🔖 who is also a language lover. Boujour~ 
 - 💻 My career path would be: Backend Engineer->Algorithm Engineer.
-- 🏹 Always wish to study more! Crazy about ML&DL&NLP and everything.
+- 🏹 Always wish to study more! Never think 'that's enought'! Crazy about ML&DL&NLP and everything.
+- 💎 Program my way.
 
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlottediamond&theme=ambient_gradient&show_icons=true)
 
