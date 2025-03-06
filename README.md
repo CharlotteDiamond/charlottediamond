@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Charlotte，a person who believes she can succeed in anything!
 
-### You could also follow me on linktree: https://linktr.ee/CharlotteHedi  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=charlottediamond.visitor-badge&left_color=#4d4eb9&right_color=#874cb4) 
+### You could also follow me on linktree: https://linktr.ee/CharlotteHedi  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=charlottediamond.visitor-badge) 
 
 I am
 - 🎓 Applying for PhD opportunies right now and I am trying to seek a job as a Java Backend Engineer.
