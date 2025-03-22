@@ -29,7 +29,7 @@ I am
 - 🎓 Applying for PhD opportunies right now and I am trying to seek a job as a Java Backend Engineer.
 - 🔖 who is also a language lover, Boujour~ 
 - 💻 My career path would be: Backend Engineer->Algorithm Engineer.
-- 🏹 Always wish to study more! Never think 'that's enought'! Crazy about ML&DL&NLP and everything.
+- 🏹 Always wish to study more! Never think 'that's enough'! Crazy about ML&DL&NLP and everything.
 - 💎 Programming my way.
 
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlottediamond&theme=ambient_gradient&show_icons=true)
