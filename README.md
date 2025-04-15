@@ -1,4 +1,4 @@
-# Hi there 👋 This is Charlotte，a girl who believes she can succeed in anything!
+# Hi there 👋 This is Hedi (or you can call me Charlotte if we play video games together) ，a girl who believes she can succeed in anything!
 
 
 <code><img title="C" alt="c" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></code>
@@ -26,10 +26,10 @@
 ## You could also follow me on linktree: https://linktr.ee/CharlotteHedi  
 
 I am
-- 🎓 Applying for PhD opportunies right now and I am trying to seek a job as a Java Backend Engineer.
-- 🔖 who is also a language lover, Boujour~ 
-- 💻 My career path would be: Backend Engineer->Algorithm Engineer.
-- 🏹 Always wish to study more! Never think 'that's enough'! Crazy about ML&DL&NLP and everything.
+- 🎓 Seeking PhD opportunites, and also trying to seek a job as a Java Backend Developer.
+- 🔖 who is also a language lover, Boujour and Bienvenue~
+- 💻 My career path would be: Backend Dev->Algorithm Engineer/LLM Researcher.
+- 🏹 Always wish to study more and never satisfy!
 - 💎 Programming my way.
 
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlottediamond&theme=ambient_gradient&show_icons=true)
