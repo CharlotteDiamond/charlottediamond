@@ -23,7 +23,7 @@
 <code><img title="Visual Studio Code" alt="VSCode" width="35px" src="https://vetores.org/d/visual-studio-code.svg" /></code>
 <code><img title="Intelli IDEA" alt="Idea" width="35px" src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/intellij-idea.svg" /></code>
 
-I am
+## I am
 - 🎓 Seeking PhD opportunities, and also trying to seek a job as a Java Backend Developer.
 - 🔖 who is also a language lover, Bonjour and Bienvenue~
 - 💻 My career path would be: Backend Dev->Algorithm Engineer/LLM Researcher.
