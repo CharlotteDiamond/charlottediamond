@@ -26,8 +26,8 @@
 ## You could also follow me on linktree: https://linktr.ee/CharlotteHedi  
 
 I am
-- 🎓 Seeking PhD opportunites, and also trying to seek a job as a Java Backend Developer.
-- 🔖 who is also a language lover, Boujour and Bienvenue~
+- 🎓 Seeking PhD opportunities, and also trying to seek a job as a Java Backend Developer.
+- 🔖 who is also a language lover, Bonjour and Bienvenue~
 - 💻 My career path would be: Backend Dev->Algorithm Engineer/LLM Researcher.
 - 🏹 Always wish to study more and never satisfy!
 - 💎 Programming my way.
